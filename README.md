@@ -7,7 +7,7 @@
 1. Escribir una función llamada clonarArreglo.
    * Dado un arreglo, retorna una arreglo nuevo con todos los elementos del arreglo original.
 <br />
-<br /> 
+<br />  
 2. Escribir una función llamada clonarObjeto.
    * Dado un objeto, retorna un objeto nuevo con todos los elementos del objeto original.
 <br />
